@@ -1,0 +1,5 @@
+__pycache__
+.gradio
+.env
+webhook_header.json
+webhook_request.json
